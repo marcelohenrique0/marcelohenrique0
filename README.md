@@ -21,5 +21,6 @@
   <a href = "mailto:marcelo123.mh91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-henrique-62123b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![dark-souls-bonfire](https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/21059c8c-e280-442c-b822-7e761528ef14)
+![code-coding](https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/5f85c312-ec9b-431b-8f34-db4dafd88aa4)
+
 

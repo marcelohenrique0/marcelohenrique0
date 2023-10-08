@@ -1,5 +1,9 @@
 ### Hi, i'am Marcelo Henrique
-
+👋 Welcome!
+- Currently studying BTI at UFERSA (Federal Rural University of Semi-Árido)
+- Main programming languages: python / C
+- Future Data Scientist
+- I'm fascinated by the world of technology, I'm always looking to learn something new
 
   ## 💻 My languages on GitHub:
 
@@ -35,3 +39,5 @@
 
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=marcelohenrique0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+-
+  [![](https://visitcount.itsvg.in/api?id=marcelohenrique0&icon=0&color=0)](https://visitcount.itsvg.in)

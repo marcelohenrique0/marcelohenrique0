@@ -1,5 +1,5 @@
 ### Hi, i'm Marcelo Henrique
-👋 Welcome! <img align="right" height="200" width="200" alt="marcelo-solaire" src="https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/52d11271-0e12-4ba9-bc78-726d935c8cf5">
+👋 Welcome! <img align="right" height="220" width="220" alt="marcelo-solaire" src="https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/cd2f6e2f-f75e-4685-8b83-6b78c117be48">
 - Currently studying BTI at UFERSA (Federal Rural University of Semi-Árido)
 - Main programming languages: python / C                                                 
 - Future Data Scientist
@@ -28,7 +28,7 @@
  <a href="https://discord.gg/g8PXR5rA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcelo123.mh91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-henrique-62123b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marcelohenrique0&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -43,3 +43,5 @@
  [![](https://visitcount.itsvg.in/api?id=marcelohenrique0&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ![Screenshot_2](https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/365ca705-7d26-4d0b-a283-4872841b7c5b)
+
+

@@ -31,17 +31,17 @@
   
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcelohenrique0&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcelohenrique0&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marcelohenrique0&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcelohenrique0&theme=nord&hide_border=false)<br/>
 
 </div>
 
 
   ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=marcelohenrique0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=marcelohenrique0&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 -
- [![](https://visitcount.itsvg.in/api?id=marcelohenrique0&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=marcelohenrique0)
+-
 ![Screenshot_2](https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/365ca705-7d26-4d0b-a283-4872841b7c5b)
 
 

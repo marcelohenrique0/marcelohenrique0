@@ -41,3 +41,5 @@
   ![](https://github-profile-trophy.vercel.app/?username=marcelohenrique0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 -
  [![](https://visitcount.itsvg.in/api?id=marcelohenrique0&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+![Screenshot_2](https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/365ca705-7d26-4d0b-a283-4872841b7c5b)

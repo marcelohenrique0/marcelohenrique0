@@ -1,5 +1,5 @@
 ### Hi, i'm Marcelo Henrique
-👋 Welcome! <img align="right" height="220" width="220" alt="marcelo-solaire" src="https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/cd2f6e2f-f75e-4685-8b83-6b78c117be48">
+👋 Welcome! <img align="right" height="200" width="200" alt="marcelo-solaire" src="https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/cfc8efea-6697-4138-bc9b-667c4c409c0b">
 - Currently studying BTI at UFERSA (Federal Rural University of Semi-Árido)
 - Main programming languages: python / C                                                 
 - Future Data Scientist

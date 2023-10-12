@@ -37,9 +37,9 @@
 </div>
 
 
-  ## 🏆 GitHub Trophies
+  ## 🏆 GitHub Trophies and Views
   ![](https://github-profile-trophy.vercel.app/?username=marcelohenrique0&theme=nord&no-frame=false&no-bg=false&margin-w=4)
--
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=marcelohenrique0&style=for-the-badge">
 </a>
@@ -48,7 +48,6 @@
 [GitHub Profile Views Counter]: https://github.com/marcelohenrique0/github-profile-views-counter
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 -
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

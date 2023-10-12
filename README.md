@@ -48,20 +48,19 @@
 [GitHub Profile Views Counter]: https://github.com/marcelohenrique0/github-profile-views-counter
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 -
-![Screenshot_2](https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/365ca705-7d26-4d0b-a283-4872841b7c5b)
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Difierro/difierro/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/marcelohenrique0/marcelohenrique0/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Difierro/difierro/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/marcelohenrique0/marcelohenrique0/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Difierro/difierro/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/marcelohenrique0/marcelohenrique0/output/github-contribution-grid-snake.svg"
   />
 </picture>
 

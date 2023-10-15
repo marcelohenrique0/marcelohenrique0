@@ -5,7 +5,7 @@
 - Future Data Scientist
 - I'm fascinated by the world of technology, I'm always looking to learn something new
 
-  ## 💻 My languages on GitHub:
+  ## 💻 My languages and Tools:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=marcelohenrique0&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
 <div
